@@ -8,3 +8,5 @@ I'm Hieu, a passionate student at Da Nang University of Science and Technology.
 - Problem-Solving and Optimization  
 
 🚀 Let's connect and build something amazing together!  
+
+![Visitor Count](https://profile-counter.glitch.me/HieuTkZ/count.svg)
