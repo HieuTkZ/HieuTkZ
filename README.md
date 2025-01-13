@@ -9,4 +9,4 @@ I'm Hieu, a passionate student at Da Nang University of Science and Technology.
 
 🚀 Let's connect and build something amazing together!  
 
-![Visitor Count](https://profile-counter.glitch.me/HieuTkZ/count.svg)
+
