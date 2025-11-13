@@ -3,7 +3,7 @@
 I'm Hieu, a passionate student at Da Nang University of Science and Technology.
 
 🌟 Interests:  
-- Programming and Software Development  
+- Programming, AI, ML, Software Development  
 - IoT and Embedded Systems  
 - Problem-Solving and Optimization  
 
