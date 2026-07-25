@@ -1,3 +1,66 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=64C500&width=435&lines=Hi+there+!+%F0%9F%91%8B;Welcome+to+my+little+world!)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Võ Đức Hiếu</h1>
 
-I'm Hieu, a passionate student at Da Nang University of Science and Technology.
+<h3 align="center">
+AI & Computer Vision Student | Embedded Systems Enthusiast
+</h3>
+
+<p align="center">
+  <a href="https://github.com/HieuTkZ">
+    <img src="https://komarev.com/ghpvc/?username=HieuTkZ&label=Profile%20views&style=flat" />
+  </a>
+</p>
+
+## 👨‍💻 About Me
+
+- 🎓 Student at Da Nang University of Science and Technology
+- 🔭 Interested in Artificial Intelligence, Computer Vision and Embedded Systems
+- 🌱 Currently learning Deep Learning, PyTorch and intelligent IoT systems
+- 💡 Enjoy building practical solutions that combine software, hardware and AI
+- 📫 Contact: your-email@example.com
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+- Python
+- C/C++
+- HTML/CSS
+- JavaScript
+
+### AI & Computer Vision
+
+- PyTorch
+- OpenCV
+- NumPy
+- Matplotlib
+- Transfer Learning
+- Image Classification
+- Image Processing
+
+### Embedded Systems & Tools
+
+- Arduino / Microcontrollers
+- Circuit Design
+- Git and GitHub
+- Jupyter Notebook
+- VS Code
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=HieuTkZ&show_icons=true"
+    alt="Hieu's GitHub statistics"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HieuTkZ&layout=compact"
+    alt="Most used languages"
+  />
+</p>
+
+## 🤝 Connect With Me
+
+- GitHub: [github.com/HieuTkZ](https://github.com/HieuTkZ)
+- LinkedIn: Add your LinkedIn URL
+- Email: Add your professional email
