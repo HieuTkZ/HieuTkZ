@@ -45,16 +45,3 @@ AI & Computer Vision Student | Embedded Systems Enthusiast
 - Jupyter Notebook
 - VS Code
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=HieuTkZ&show_icons=true"
-    alt="Hieu's GitHub statistics"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HieuTkZ&layout=compact"
-    alt="Most used languages"
-  />
-</p>
