@@ -16,7 +16,7 @@ AI & Computer Vision Student | Embedded Systems Enthusiast
 - 🔭 Interested in Artificial Intelligence, Computer Vision and Embedded Systems
 - 🌱 Currently learning Deep Learning, PyTorch and intelligent IoT systems
 - 💡 Enjoy building practical solutions that combine software, hardware and AI
-- 📫 Contact: your-email@example.com
+- 📫 Contact: vdhieu.tk@gmail.com
 
 ## 🛠️ Technical Skills
 
@@ -58,7 +58,3 @@ AI & Computer Vision Student | Embedded Systems Enthusiast
     alt="Most used languages"
   />
 </p>
-
-## 🤝 Connect With Me
-- LinkedIn: 
-- Email: vdhieu.tk@gmail.com
