@@ -60,7 +60,5 @@ AI & Computer Vision Student | Embedded Systems Enthusiast
 </p>
 
 ## 🤝 Connect With Me
-
-- GitHub: [github.com/HieuTkZ](https://github.com/HieuTkZ)
-- LinkedIn: Add your LinkedIn URL
-- Email: Add your professional email
+- LinkedIn: 
+- Email: vdhieu.tk@gmail.com
